@@ -1,0 +1,15 @@
+a=50
+b=15
+c=13
+add=a+b+c
+sub=a-b-c
+mul=a*b*c
+div=a/b
+mod=a%b
+pow=a**b
+print(add)
+print(sub)
+print(mul)
+print(div)
+print(mod)
+print(pow)
