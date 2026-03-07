@@ -9,3 +9,5 @@ class car:
         print("Car Started")
 car1 = car()
 car1.start()
+car2 =car()
+car2.start()
